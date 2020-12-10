@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on...independent coding projects! 
-- 🌱 I’m currently learning ...zu sprechen Deutsche!
+- 🌱 I’m currently learning ... Deutsch sprechen!
 - 👯 I’m looking to collaborate on ... volunteer data projects for non-profits and charity organizations!
 - 🤔 I’m looking for help with ...connecting with more data scientists in the Berlin area!
 - 📫 How to reach me: ... anitarijal@gmail.com
