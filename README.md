@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on...dynamic coding with Python! 
+- 🔭 I’m currently working on...web-scraping in Python! 
 - 🌱 I’m currently learning ... Deutsch sprechen!
 - 👯 I’m looking to collaborate on ... volunteer data projects for non-profits and charity organizations!
 - 🤔 I’m looking for help with ...connecting with more data scientists in the Berlin area!
